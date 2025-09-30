@@ -1,7 +1,5 @@
 #include<iostream>
 #include<cstdlib>
-
-
 using namespace std;
 
 int main(){
@@ -27,9 +25,7 @@ else{
      cout << "";
      computer =  list[2] ;
      
-}
-   
-                        
+}           
     cout << computer << endl;
 if (computer == pick ){
     cout << "draw"<<endl ;

@@ -1,5 +1,5 @@
 |                      Project                     | usage | Features | Language |
 |:------------------------------------------------:|:-----:|:--------:|:--------:|
 | [Gpa-converter](./Projects/blob/main/Gpa-converter.cpp) |     Converts grades between different GPA scales such as percentage  |    Supports multiple grading systems, calculates weighted and unweighted GPA, processes multiple courses at once, and provides clean formatted results.      |    c++      |
-|                                                  |       |          |          |
+| [Password-generator](/Projects/blob/main/password-generator.py) |   Generates secure, random passwords based on user-defined settings like length and character types   |  Supports customizable password length, includes options for symbols/numbers/uppercase/lowercase, avoids predictable patterns, and can generate multiple passwords at once.        | python |
 |                                                  |       |          |          |
